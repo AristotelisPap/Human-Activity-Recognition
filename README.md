@@ -17,7 +17,7 @@ Additionally, during this project, we tried to apply several machine learning al
 
 
 |      Model 			| Best Time Series Split     	| CV Accuracy  | Test Accuracy |  
-|:-----------------	|:-----------	|:-----------	|
+|:-----------------	|:-----------	|:-----------	|:-----------	|
 | Logistic Regression with $$l_1$$ Regularization        | 2   	| 84.75 %        | 84.21 %        | 
 | Naive Bayes with Gaussian Likelihood          	| 46.66 %        | 0.533        |
 | Multinomial Naive Bayes           	| 49.06 %        | 0.563        |
